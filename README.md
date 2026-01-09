@@ -7,5 +7,5 @@ a container file format that can hold different kinds of text documents such as 
 This implementation follows the [Tohjiwa SDC Specification](https://sdc.research.tohjiwa.com).
 
 ## License
-Copyright © 2025 PT Tohjiwa Teknologi Indonesia  
+Copyright © 2025–2026 PT Tohjiwa Teknologi Indonesia  
 Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
